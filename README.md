@@ -2,14 +2,6 @@
 
 ---
 
-<p align="center">
-  <a href="#">
-    <img alt="JiYu Trainer" src="https://imengyu.top/assets/images/jy/JiYuTrainerLogo256.png" width="128">
-  </a>
-</p>
-<p align="center">
-  <img alt="JiYu Trainer Title" src="https://imengyu.top/assets/images/jy/JiYuTrainerTitle.png">
-</p>
 <p align="center">不再被极域电子教室控制</p>
 
 <p align="center">
